@@ -117,7 +117,7 @@
   "devDependencies": {
     "@iconify/json": "^2.2.203",
     "@playwright/test": "^1.43.1",
-    "@sveltejs/adapter-auto": "3.2.0",
+    "@sveltejs/adapter-node": "^5.1.0",
     "@sveltejs/kit": "^2.5.7",
     "@sveltejs/package": "^2.3.1",
     "@sveltejs/vite-plugin-svelte": "^3.1.0",
